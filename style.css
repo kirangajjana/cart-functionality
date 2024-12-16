@@ -1,0 +1,103 @@
+*{
+    margin:0;
+    border:0;
+}
+#navbar{
+    height:50px;
+    width:100%;
+    background-color: whitesmoke;
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    display:flex;
+    justify-content: space-around;
+}
+
+#footer{
+    height:50px;
+    width:100%;
+    background-color: whitesmoke;
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0;
+
+}
+#marquee{
+    position:absolute;
+    top:50%;
+    justify-content: center;
+    font-weight: bolder;
+}
+#homediv{
+    height:50px;
+    width:50px;
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    background-color: cadetblue;
+
+}
+#homeinner{
+    margin:5px;
+    font-weight: bolder;
+}
+#aboutdiv{
+    height:50px;
+    width:50px;
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    background-color: cadetblue;
+
+}
+#aboutinner{
+    margin:5px;
+    font-weight: bolder;
+
+}
+#contactdiv{
+    height:50px;
+    width:55px;
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    background-color: cadetblue;
+    background-repeat: no-repeat;
+
+}
+#contactinner{
+    margin:5px;
+    font-weight: bolder;
+}
+#additemsdiv{
+    height:50px;
+    width:80px;
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    background-color: cadetblue;
+
+}
+#additems{
+    margin:5px;
+    background-color: cadetblue;
+    font-weight: bolder;
+
+}
+#removeitemsdiv{
+    height:50px;
+    width:80px;
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+    background-color: cadetblue;
+
+}
+#removeitems{
+    margin:5px;
+    background-color: cadetblue;
+    font-weight: bolder;
+
+}
