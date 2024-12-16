@@ -21,7 +21,6 @@
     background-color: whitesmoke;
     border-style: groove;
     border-color: black;
-    border-radius: 10px;
     position: absolute;
     bottom: 0;
 
@@ -40,27 +39,38 @@
     width:50px;
     border-style: groove;
     border-color: black;
-    border-radius: 10px;
     background-color: rgb(196, 242, 221);
 
+}
+#homediv:hover{
+    background-color: rgb(234, 191, 160);
 }
 #homeinner{
     margin:5px;
     font-weight: bolder;
+}
+#homeinner:hover{
+    color: red;
 }
 #aboutdiv{
     height:50px;
     width:50px;
     border-style: groove;
     border-color: black;
-    border-radius: 10px;
     background-color: rgb(196, 242, 221);
 
 
 }
+#aboutdiv:hover{
+    background-color: rgb(234, 191, 160);
+}
 #aboutinner{
     margin:5px;
     font-weight: bolder;
+
+}
+#aboutinner:hover{
+    color: red;
 
 }
 #contactdiv{
@@ -68,22 +78,32 @@
     width:55px;
     border-style: groove;
     border-color: black;
-    border-radius: 10px;
     background-color: rgb(196, 242, 221);
 
 }
+#contactdiv:hover{
+    background-color: rgb(234, 191, 160);
+}
+
+
 #contactinner{
     margin:5px;
     font-weight: bolder;
+}
+#contactinner:hover{
+    color: red;
 }
 #additemsdiv{
     height:50px;
     width:80px;
     border-style: groove;
     border-color: black;
-    border-radius: 10px;
     background-color: rgb(196, 242, 221);
 
+
+}
+#additemsdiv:hover{
+    background-color: rgb(234, 191, 160);
 
 }
 #additems{
@@ -93,15 +113,22 @@
     font-weight: bolder;
 
 }
+#additems:hover{
+    color: red;
+
+}
+
 #removeitemsdiv{
     height:50px;
     width:80px;
     border-style: groove;
     border-color: black;
-    border-radius: 10px;
     background-color: rgb(196, 242, 221);
 
 
+}
+#removeitemsdiv:hover{
+    background-color: rgb(247, 14, 14);
 }
 #removeitems{
     margin:5px;
