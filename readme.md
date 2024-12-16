@@ -10,5 +10,5 @@ This project implements a simple shopping cart system where users can **add** an
   
 ## Demo
 
-You can view a live demo of this functionality [](#) (Replace with the link if available).
+You can view a live demo of this functionality [https://kirangajjana.github.io/cart-functionality/](#) (Replace with the link if available).
 
