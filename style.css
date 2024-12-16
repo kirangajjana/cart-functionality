@@ -8,9 +8,11 @@
     background-color: whitesmoke;
     border-style: groove;
     border-color: black;
-    border-radius: 10px;
     display:flex;
     justify-content: space-around;
+}
+#navbar:hover{
+    background-color: rgb(242, 157, 157);
 }
 
 #footer{
@@ -24,6 +26,9 @@
     bottom: 0;
 
 }
+#footer:hover{
+    background-color: rgb(242, 157, 157);
+}
 #marquee{
     position:absolute;
     top:50%;
@@ -36,7 +41,7 @@
     border-style: groove;
     border-color: black;
     border-radius: 10px;
-    background-color: cadetblue;
+    background-color: rgb(196, 242, 221);
 
 }
 #homeinner{
@@ -49,7 +54,8 @@
     border-style: groove;
     border-color: black;
     border-radius: 10px;
-    background-color: cadetblue;
+    background-color: rgb(196, 242, 221);
+
 
 }
 #aboutinner{
@@ -63,8 +69,7 @@
     border-style: groove;
     border-color: black;
     border-radius: 10px;
-    background-color: cadetblue;
-    background-repeat: no-repeat;
+    background-color: rgb(196, 242, 221);
 
 }
 #contactinner{
@@ -77,12 +82,14 @@
     border-style: groove;
     border-color: black;
     border-radius: 10px;
-    background-color: cadetblue;
+    background-color: rgb(196, 242, 221);
+
 
 }
 #additems{
     margin:5px;
-    background-color: cadetblue;
+    background-color: rgb(196, 242, 221);
+
     font-weight: bolder;
 
 }
@@ -92,12 +99,14 @@
     border-style: groove;
     border-color: black;
     border-radius: 10px;
-    background-color: cadetblue;
+    background-color: rgb(196, 242, 221);
+
 
 }
 #removeitems{
     margin:5px;
-    background-color: cadetblue;
+    background-color: rgb(196, 242, 221);
+
     font-weight: bolder;
 
 }
